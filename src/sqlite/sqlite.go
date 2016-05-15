@@ -11,7 +11,7 @@ import (
 	"database/sql"
 	"fmt"
 	"github.com/codegangsta/cli"
-	_ "github.com/welovesecrets/go-sqlcipher"
+	_ "github.com/xeodou/go-sqlcipher"
 	"log"
 	"os"
 )
